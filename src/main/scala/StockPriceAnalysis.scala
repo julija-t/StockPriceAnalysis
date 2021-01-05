@@ -1,3 +1,0 @@
-object StockPriceAnalysis extends App{
-
-}
